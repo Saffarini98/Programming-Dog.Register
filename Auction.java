@@ -1,10 +1,5 @@
 import java.util.ArrayList;
 
-/**
- Maxim Saffarini masa8974
- Har samarbetat med  Emil Alic emal8232 och Sabina Cardell saca7387
- */
-
 public class Auction {
 
     private ArrayList<Bid> bidList = new ArrayList<Bid>();
